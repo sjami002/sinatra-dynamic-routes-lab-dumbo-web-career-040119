@@ -25,7 +25,7 @@ class App < Sinatra::Base
     
     case params[:operation]
       when 'add'
-        
+        result = 
   end
 
 end
