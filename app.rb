@@ -19,7 +19,7 @@ class App < Sinatra::Base
     
   end
   
-  get '//' do
+  get '/:operation/:number1/:number2' do
     
   end
 
